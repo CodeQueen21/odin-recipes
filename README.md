@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I'm practicing my skills using HTML. On this simple webpage I will link a few recipe ideas that I have.
